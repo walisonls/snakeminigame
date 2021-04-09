@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+    width: 550px;
+    justify-content: space-around;
+    border: solid 1px black;
+    padding: 10px;
+    background: #cecece;
+}
+#tela {
+    border: solid 1px black;
+}
